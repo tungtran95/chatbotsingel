@@ -1,0 +1,22 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Facebook ca nhan",
+  "main": "index.js",
+  "scripts": {
+    "test": "haha no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tungtran95/chatbotsingel.git"
+  },
+  "author": "Tobi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tungtran95/chatbotsingel/issues"
+  },
+  "homepage": "https://github.com/tungtran95/chatbotsingel#readme",
+  "dependencies": {
+    "facebook-chat-api": "^1.2.0"
+  }
+}
